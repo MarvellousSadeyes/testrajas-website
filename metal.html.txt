@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Metal Division | Rajas Gulf</title>
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<header>…same menu…</header>
+
+<div class="hero" style="background-image:url('https://images.unsplash.com/photo-1584270354949-1b7a56f7f79f');">
+<h1>Metal Scrap Trading</h1>
+</div>
+
+<section>
+<h2>Products</h2>
+<ul>
+<li>HMS 1 & 2</li>
+<li>Shredded Steel</li>
+<li>Aluminum UBC</li>
+<li>Aluminum Extrusions 6063</li>
+<li>Copper Scrap</li>
+<li>Mixed Non-Ferrous Scrap</li>
+</ul>
+
+<h2>Quality & Inspection</h2>
+<p>
+Material inspected as per ISRI. Third-party inspection (SGS / BV) available.
+</p>
+
+<h2>Logistics</h2>
+<p>Containerized and bulk shipments worldwide.</p>
+</section>
+
+<footer>© 2025 Rajas Gulf Trading Company</footer>
+</body>
+</html>

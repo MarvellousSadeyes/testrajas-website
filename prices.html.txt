@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Metal Prices</title>
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<header>…menu…</header>
+
+<section>
+<h2>Aluminum Pricing</h2>
+<p>
+All aluminum scrap prices are based on
+<strong>London Metal Exchange (LME) Aluminum Cash Settlement</strong>
+plus premiums.
+</p>
+
+<a class="btn" href="https://www.lme.com/en/Metals/Non-ferrous/Aluminium" target="_blank">
+View Live LME Aluminum Price
+</a>
+</section>
+
+<footer>© 2025 Rajas Gulf Trading Company</footer>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Quality & Inspection</title>
+<link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+
+<header>…menu…</header>
+
+<section>
+<h2>Quality Assurance</h2>
+<p>
+Strict quality control, documentation, and inspection to meet international standards.
+</p>
+
+<ul>
+<li>ISRI Compliance</li>
+<li>SGS / Bureau Veritas</li>
+<li>Mill Test Certificates</li>
+<li>Pre-shipment Inspection</li>
+</ul>
+</section>
+
+<footer>© 2025 Rajas Gulf Trading Company</footer>
+</body>
+</html>
